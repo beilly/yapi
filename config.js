@@ -21,9 +21,9 @@ module.exports = {
       "pass": "*****"
     }
   },
-  "plugins": [
-    {
-       "name": "add-user"
-    }
- ]
+//   "plugins": [
+//     {
+//        "name": "add-user"
+//     }
+//  ]
 }
