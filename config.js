@@ -20,5 +20,10 @@ module.exports = {
       "user": "***@163.com",
       "pass": "*****"
     }
-  }
+  },
+  "plugins": [
+    {
+       "name": "add-user"
+    }
+ ]
 }
